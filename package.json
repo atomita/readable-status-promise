@@ -1,0 +1,19 @@
+{
+  "name": "readable-status-promise",
+  "version": "0.0.0",
+  "description": "This can read the status for Promise.",
+  "main": "lib/ReadableStatusPromise.js",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atomita/readable-status-promise.git"
+  },
+  "author": "atomita",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.7.5"
+  }
+}
