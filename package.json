@@ -1,6 +1,6 @@
 {
   "name": "readable-status-promise",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "This can read the status for Promise.",
   "main": "lib/ReadableStatusPromise.js",
   "scripts": {
